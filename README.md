@@ -22,8 +22,6 @@ Peer validation is a secured blockchain mechanism. When you enter your message, 
 # Requirements:
 -Java Virtual Machine 8 or higher
 
--Windows x86/x64
-
 # How to use CBM
 CryptoByte Messenger Type is a Java application and requires Java Virtual Machine to run it.
 
