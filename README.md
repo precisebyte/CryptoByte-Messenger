@@ -4,7 +4,7 @@ This messenger was based on the idea to store peer data between computers using 
 
 Encryption is used to store all data secured, it also used to transmit data between peers. Each peer has one secret key, which is set up by peer creator. When one of the peers gets the encrypted data, it decrypts this data with this unique key, and then stores cipher in the blockchain.
 
-Main Features
+# Main Features
 P2P – doesn’t require third party
 
 AES256 Encryption
@@ -13,7 +13,7 @@ BlockChain data storage
 
 PeerValidation
 
-P2P
+# P2P
 CBM-Type doesn’t use any third-party servers, but connecting directly between computers. It gives you more security and freedom in communications.
 
 # PeerValidation
