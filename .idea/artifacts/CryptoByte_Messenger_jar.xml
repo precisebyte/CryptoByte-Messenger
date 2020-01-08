@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="CryptoByte-Messenger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CryptoByte_Messenger_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CryptoByte-Messenger.jar">
+        <element id="module-output" name="CryptoByte-Messenger" />
+      </element>
+      <element id="library" level="application" name="javax.json-1.0.4" />
+      <element id="library" level="project" name="gson-2.6.2" />
+      <element id="library" level="project" name="scrypt-1.4.0" />
+      <element id="library" level="project" name="json-20180813" />
+    </root>
+  </artifact>
+</component>

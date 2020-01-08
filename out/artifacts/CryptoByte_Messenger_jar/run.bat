@@ -1,0 +1,1 @@
+start java -jar CryptoByte-Messenger.jar
